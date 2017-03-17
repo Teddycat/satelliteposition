@@ -7,4 +7,4 @@ Remarks:
 
 * http://wheretheiss.at/w/developer is API that will give you information about ISS position
 
-* You can use Google's Geocoding API to translate location to human readable addresshttps://developers.google.com/maps/documentation/geocoding/intro#ReverseGeocoding
+* You can use Google's Geocoding API to translate location to human readable address https://developers.google.com/maps/documentation/geocoding/intro#ReverseGeocoding
